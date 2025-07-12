@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!8$9@zod5^%k2fcqb!q1%j65e0tb3^zzm44gu^+oi2%_x4an$c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iris-django-api-app.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
